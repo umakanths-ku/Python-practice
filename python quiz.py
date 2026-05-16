@@ -28,6 +28,22 @@ for question in questions :
             print("INCORRECT ANSWER!")
             print(f"The correct answer is: {answer[q]}")
 
-     q+=1
-
+     q+=1 
     
+    
+print("----------")
+print('RESULT') 
+print("----------") 
+
+print("answers:",end=" ")
+for ans in answer: 
+      print(ans,end=" ") 
+print()
+
+print("guesses:",end=" ")
+for guess in guesses: 
+      print(guess,end=" ")   
+print()   
+
+c=int(c/len(questions)*100)
+print(f"Your % is {c}%")

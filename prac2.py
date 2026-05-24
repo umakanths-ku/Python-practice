@@ -18,9 +18,10 @@ for m in grades_matrix:
     print(f"{row_avg:.2f}",end=" ")  
 print()
 print("The average mark foe each exam are:",end=" ")
-for x in range(nc): 
+for x in range(nc):#x is column indexes it will take all the values of exam 1.
     f=0 
-    for r in range(n):
-        f+=grades_matrix[r][x]
-        col_avg=f/n
+    for r in range(n):#r will visit through every student score
+        f+=grades_matrix[r][x]# r is row and x in column
+    
+    col_avg=f/n
     print(f"{col_avg:.2f}",end=" ")

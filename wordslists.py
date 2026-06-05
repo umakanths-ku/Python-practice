@@ -1,0 +1,25 @@
+#words for hangman game
+words= (
+    "The Shawshank Redemption", "The Godfather", "The Dark Knight", "The Godfather Part II",
+    "12 Angry Men", "Schindler's List", "The Lord of the Rings The Return of the King", 
+    "Pulp Fiction", "The Lord of the Rings: The Fellowship of the Ring", "The Good, the Bad and the Ugly",
+    "Forrest Gump", "Fight Club", "The Lord of the Rings The Two Towers", "Inception", 
+    "Star Wars: Episode V - The Empire Strikes Back", "The Matrix", "Goodfellas", "One Flew Over the Cuckoo's Nest",
+    "Seven", "Seven Samurai", "It's a Wonderful Life", "Interstellar", "The Silence of the Lambs", "City of God",
+    "Saving Private Ryan", "Life Is Beautiful", "The Green Mile", "Terminator 2: Judgment Day", 
+    "Star Wars: Episode IV - A New Hope", "Back to the Future", "Spirited Away", "Psycho", 
+    "The Pianist", "Parasite", "Leon The Professional", "The Lion King", "Gladiator", 
+    "American History X", "The Departed", "Whiplash", "The Prestige", "Glengarry Glen Ross",
+    "Casablanca", "Rear Window", "Apocalypse Now", "Alien", "The Terminator", "Paths of Glory",
+    "Django Unchained", "The Dark Knight Rises", "WALL-E", "Toy Story", "Memento", "Coco",
+    "Amelie", "A Beautiful Mind", "The Truman Show", "Catch Me If You Can", "Jurassic Park",
+    "Raiders of the Lost Ark", "Inglourious Basterds", "Eternal Sunshine of the Spotless Mind",
+    "Reservoir Dogs", "Taxi Driver", "Requiem for a Dream", "V for Vendetta", "Hamilton",
+    "Dune: Part Two", "Spider-Man: Into the Spider-Verse", "Spider-Man: Across the Spider-Verse", 
+    "Top Gun: Maverick", "Oppenheimer", "Poor Things", "The Banshees of Inisherin", "Everything Everywhere All at Once",
+    "Knives Out", "Mad Max: Fury Road", "Birdman", "The Grand Budapest Hotel", "Whiplash",
+    "Inside Out", "Up", "Monsters, Inc.", "Finding Nemo", "The Incredibles", "Ratatouille",
+    "Zootopia", "Howl's Moving Castle", "My Neighbor Totoro", "Princess Mononoke", "Kiki's Delivery Service",
+    "Nausicaä of the Valley of the Wind", "Grave of the Fireflies", "The Wind Rises", 
+    "Perfect Blue", "Paprika", "Tokyo Godfathers", "Millennium Actress", "Your Name", "Weathering with You"
+)
